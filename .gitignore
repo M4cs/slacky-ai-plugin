@@ -1,0 +1,6 @@
+.aienv
+.vscode
+checkpoint/
+**/*.tar
+**/*.txt
+test.py
